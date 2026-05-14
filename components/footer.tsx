@@ -39,7 +39,7 @@ export default function Footer() {
           <div className="flex gap-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-black">Twitter</a>
             <a href="#" className="hover:text-black">Discord</a>
-            <a href="#" className="hover:text-black">Telegram</a>
+            <a href="https://t.me/monkos_support_bot" className="hover:text-black">Telegram</a>
           </div>
         </div>
       </div>
