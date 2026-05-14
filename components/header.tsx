@@ -19,7 +19,7 @@ export default function Header() {
           <nav className="hidden gap-8 md:flex">
             <button className="text-sm font-medium hover:opacity-60">Explore</button>
             <button className="text-sm font-medium hover:opacity-60">Community</button>
-            <button className="text-sm font-medium hover:opacity-60">Docs</button>
+            <a href="https://pump.fun/" className="hover:text-black">Token</a>
           </nav>
           <button className="rounded-full border border-black px-6 py-2 text-sm font-medium hover:bg-black hover:text-white transition-colors">
             Sign In
