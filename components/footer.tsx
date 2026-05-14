@@ -37,7 +37,7 @@ export default function Footer() {
         <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
           <p>© 2026 MONKO PROTOCOL. All rights reserved.</p>
           <div className="flex gap-6 mt-4 md:mt-0">
-            <a href="#" className="hover:text-black">Twitter</a>
+            <a href="https://x.com/MonkoProtocol" className="hover:text-black">X</a>
             <a href="#" className="hover:text-black">Discord</a>
             <a href="https://t.me/monkos_support_bot" className="hover:text-black">Telegram</a>
           </div>
