@@ -13,7 +13,8 @@ export default function Hero() {
           A next-generation protocol for decentralized communities. Build stronger networks, share insights, and unlock the future of Web3 together.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-          <a href="https://x.com/MonkoProtocol" className="hover:text-black">Join Community</a>
+          <button className="w-full sm:w-auto px-8 py-3 bg-black text-white rounded-lg font-medium hover:opacity-80 transition-opacity">
+            Join Community
           </button>
           <button className="w-full sm:w-auto px-8 py-3 border border-black rounded-lg font-medium hover:bg-black hover:text-white transition-colors">
             Learn More
