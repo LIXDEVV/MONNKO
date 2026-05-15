@@ -19,7 +19,7 @@ export default function Header() {
           <nav className="hidden gap-8 md:flex">
             <button className="text-sm font-medium hover:opacity-60">Explore</button>
             <a href="https://x.com/MonkoProtocol" className="hover:text-black">Community</a>
-            <a href="https://pump.fun/" className="hover:text-black">Token</a>
+            <a href="https://pump.fun/coin/JnpGyQh7jZHFmh4N7DJNuifCA25zs8CBpXs4G19pump" className="hover:text-black">Token</a>
           </nav>
           <button className="rounded-full border border-black px-6 py-2 text-sm font-medium hover:bg-black hover:text-white transition-colors">
             Sign In
